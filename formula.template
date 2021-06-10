@@ -1,0 +1,15 @@
+class GitSemverTag < Formula
+    desc "Simple helper to release your git tag according to the semver spec"
+    url "https://github.com/timo-reymann/git-semver-tag/releases/download/$version/git-semver-tag_darwin_amd64"
+    sha256 "$sha256_mac"
+    version "$version"
+
+    def install
+        bin.install "git-semver-tag_darwin_amd64" => "git-semver-tag"
+    end
+
+    test do
+      system "false"
+    end
+  end
+
