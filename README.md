@@ -1,7 +1,13 @@
 homebrew-git-semver-tag
 ===
 
-HomeBrew formula for [git-semver-tag](https://github.com/timo-reymann/git-semver-tag).
+<p align="center">
+  <img width="300" src="https://brew.sh/assets/img/homebrew-256x256.png">
+</p>
+
+<p align="center">
+HomeBrew formula for <a href="https://github.com/timo-reymann/git-semver-tag">git-semver-tag</>.
+  </p>
 
 ## Releasing
 
