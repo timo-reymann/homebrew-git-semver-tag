@@ -1,5 +1,7 @@
 homebrew-git-semver-tag
 ===
+[![LICENSE](https://img.shields.io/github/license/timo-reymann/homebrew-git-semver-tag)](https://github.com/timo-reymann/homebrew-git-semver-tag/blob/master/LICENSE)
+
 
 <p align="center">
   <img width="300" src="https://brew.sh/assets/img/homebrew-256x256.png">
